@@ -23,12 +23,12 @@ body {
 }
 
 @font-face {
-    font-family: IronBrine;
-    src: url(/assets/fonts/IronBrine.ttf);
+    font-family:'IronBrine';
+    src: url('/assets/fonts/IronBrine.ttf');
 }
 
 h1, h2, h3, h4, h5, h6 {
-
+    font-family: 'IronBrine', sans-serif;
 }
 
 /*==========================================
