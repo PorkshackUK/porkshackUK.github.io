@@ -3,13 +3,13 @@ layout: default
 ---
 <div style="margin-top:-20px;"></div>
    <!-- Hero message-->
-   <div class="parallax-container " style="height:700px;">
+   <div class="parallax-container" style="height:700px;">
     <div  id="home" class="section scrollspy overlay" style="padding:5%;">
       <div class="row center wow zoomIn" data-wow-duration="1s">
           <img src="assets/images/logo.png" class="responsive-img editable" style="width:25%">
       </div>
-        <div class="container center-align">
-        <p class="editable">We take a modern spin on traditional Filipino dishes by reconstructing popular Filipino family favourites and turning them into street food feasts. We only use good quality fresh ingredients in our dishes, our pork is sourced locally from an independent butcher who supplies free range, rare breed, high welfare pigs.</p>
+        <div class="container center-align wow zoomIn" data-wow-duration="1s">
+        <p class="editable flow-text">We take a modern spin on traditional Filipino dishes by reconstructing popular Filipino family favourites and turning them into street food feasts. We only use good quality fresh ingredients in our dishes, our pork is sourced locally from an independent butcher who supplies free range, rare breed, high welfare pigs.</p>
         </div>
       </div>
     <div class="parallax"><img src="assets/images/heroImage.jpg"></div>
@@ -88,10 +88,9 @@ layout: default
           <div id="instagram" class="col s12 section scrollspy">
 <!-- Instagram Section -->
               <h3>Instagram</h3>
-<div>
+<div class="center" style="height:100%; padding-bottom:10%;">
 <!-- LightWidget WIDGET -->
-<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-<iframe src="http://lightwidget.com/widgets/783594d16a635ff2a3725cb9ddfd4b9b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden; padding-bottom:50px;"></iframe>
+<iframe src="http://instaembedder.com/gallery-v2.php?width=350&cols=3&rows=3&margin=10&color=black&likes=1&share_buttons=1&comments=1&date=1&frame=1&image_border=0&frame_color=white&cid=9116&" frameborder="0" width="100%" height="720" scrolling="no"></iframe>
 </div>
           </div>
         </div>
