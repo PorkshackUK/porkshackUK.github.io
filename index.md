@@ -89,8 +89,8 @@ layout: default
 <!-- Instagram Section -->
               <h3>Instagram</h3>
 <div class="center" style="height:100%; padding-bottom:10%;">
-<!-- LightWidget WIDGET -->
-<iframe src="http://instaembedder.com/gallery-v2.php?width=350&cols=3&rows=3&margin=10&color=black&likes=1&share_buttons=1&comments=1&date=1&frame=1&image_border=0&frame_color=white&cid=9116&" frameborder="0" width="100%" height="720" scrolling="no"></iframe>
+<!-- Pixlee Instagram WIDGET -->
+<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'G1IaV274czHekEtSW7H'});Pixlee.addSimpleWidget({widgetId:'12229'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
 </div>
           </div>
         </div>
