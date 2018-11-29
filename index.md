@@ -42,7 +42,7 @@ layout: default
         <div class="row">
           <div class="wow fadeIn" data-wow-duration="3s">
             <div class="col s12">
-                <div class="col s12 m6 editable">
+                <div class="col s12 m6 editable" style="padding-bottom:5%;">
 <!-- Food Section Text -->
                     <h3>Menu</h3>
                     <p>All our dishes are served with coconut rice and a pickled slaw.</p>
