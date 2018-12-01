@@ -1,5 +1,5 @@
-### The Porkshack
-The Porkshack is a food truck in the UK that specialises in Filipino style street food. 
+### The Pork Shack
+The Pork Shack is a food truck in the UK that specialises in Filipino style street food. 
 It's star attraction is the Adobo Pulled Pork.
  
 Based on the original restaurant template:
