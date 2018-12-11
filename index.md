@@ -11,7 +11,7 @@ layout: default
         <div class="container center-align wow zoomIn" data-wow-duration="1s">
         <p class="editable flow-text">The Pork Shack takes a modern spin on traditional Filipino dishes by reconstructing popular Filipino family favourites and turning them into street food feasts. We only use good quality fresh ingredients in our dishes, our pork is sourced locally from an independent butcher who supplies free range, rare breed, high welfare pigs.</p>
         </div>
-       <div class="show-on-large" style="padding-bottom:400px;"></div>
+       <div class="hide-on-med-and-down" style="padding-bottom:400px;"></div>
       </div>
     <div class="parallax"><img src="assets/images/heroImage.jpg"></div>
   </div>
