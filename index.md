@@ -3,7 +3,7 @@ layout: default
 ---
 <div style="margin-top:-20px;"></div>
    <!-- Hero message-->
-   <div class="parallax-container" style="height:700px;">
+   <div class="parallax-container">
     <div  id="home" class="section scrollspy overlay" style="padding:5%;">
       <div class="row center wow zoomIn" data-wow-duration="1s">
           <img src="assets/images/logo.png" class="responsive-img editable" style="width:25%">
