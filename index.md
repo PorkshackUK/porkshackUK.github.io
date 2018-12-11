@@ -73,7 +73,7 @@ layout: default
     <!-- First Section Title -->
             <h1 class="editable">Book us for your next event</h1>
     <!-- First Section Copy -->
-            <p class="editable">We at The Pork Shsck are open to catering your event including weddings, birthdays or any party that you think our delicious menu would be appropriate for. We will aim to work to your requirements, just fill out the form below and we’ll contact you as soon as we can. </p>
+            <p class="editable">We at The Pork Shack are open to catering your event including weddings, birthdays or any party that you think our delicious menu would be appropriate for. We will aim to work to your requirements, just fill out the form below and we’ll contact you as soon as we can. </p>
           </div>
         </div>
       </div>
