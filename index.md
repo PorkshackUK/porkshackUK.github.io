@@ -90,6 +90,7 @@ layout: default
 <!-- Instagram Section -->
               <h3>Instagram</h3>
 <div class="center" style="height:100%; padding-bottom:10%;">
+<<<<<<< Updated upstream
 <!-- Pixlee Instagram WIDGET -->
 <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'G1IaV274czHekEtSW7H'});Pixlee.addSimpleWidget({widgetId:'12229'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
 </div>
