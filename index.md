@@ -52,7 +52,7 @@ layout: default
                     <h5>Paksiw Pulled Jackfruit (Vegan)</h5>
                     <p>Paksiw is traditionally made with left over pork and stir fried with garlic, bay leaf, vinegar and soy sauce. We swapped the pork for young jackfruit which has a similar texture and appearance to pulled pork so Veggies and Vegans can have a real taste of the Pork Shack too!</p>
                     <h5>Rendang Pulled Pork</h5>
-                    <p>Rendang is an Indonesion, coconut-based curry, usually served with beef and heavy on the lemongrass. We’ve given it a couple of twists to make it work with our pulled pork and it’s something you have to try if you’ve never experienced a Rendang before. Slightly spicy.</p>                    
+                    <p>Rendang is an Indonesion, coconut-based curry, usually served with beef and heavy on the lemongrass. We’ve given it a couple of twists to make it work with our pulled pork and it’s something you have to try if you’ve never experienced a Rendang before. Slightly spicy.</p>
                   </div>
                 <div class="col s12 m6 valign-wrapper">
                   <img src="assets/images/dish.png" class="editable" style="width:100%;">
@@ -90,7 +90,6 @@ layout: default
 <!-- Instagram Section -->
               <h3>Instagram</h3>
 <div class="center" style="height:100%; padding-bottom:10%;">
-<<<<<<< Updated upstream
 <!-- Pixlee Instagram WIDGET -->
 <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'G1IaV274czHekEtSW7H'});Pixlee.addSimpleWidget({widgetId:'12229'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
 </div>
