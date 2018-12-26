@@ -1,0 +1,80 @@
+---
+label: Index template
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: hero-logo
+  label: Hero logo
+  type: file
+  hidden: false
+  default: ''
+- name: hero-background
+  label: Hero background
+  type: file
+  hidden: false
+  default: ''
+- name: hero-copy
+  label: Hero copy
+  type: textarea
+  hidden: false
+  default: ''
+- name: about-image
+  label: About image
+  type: file
+  hidden: false
+  default: ''
+- name: about-title
+  label: About title
+  type: text
+  hidden: false
+  default: ''
+- name: about-copy
+  label: About copy
+  type: textarea
+  hidden: false
+  default: ''
+- name: food-title
+  label: Food title
+  type: text
+  hidden: false
+  default: ''
+- name: food-copy
+  label: Food copy
+  type: text
+  hidden: false
+  default: ''
+- name: hire-title
+  label: Hire title
+  type: text
+  hidden: false
+  default: ''
+- name: hire-copy
+  label: Hire copy
+  type: textarea
+  hidden: false
+  default: ''
+- name: mailing-list
+  label: Mailing list
+  type: textarea
+  hidden: false
+  default: ''
+- name: location-title
+  label: Location title
+  type: text
+  hidden: false
+  default: ''
+- name: location-copy
+  label: Location copy
+  type: text
+  hidden: false
+  default: ''
+- name: phone-number
+  label: Phone number
+  type: text
+  hidden: false
+  default: ''
