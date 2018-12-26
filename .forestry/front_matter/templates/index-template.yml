@@ -1,12 +1,12 @@
 ---
 label: Index template
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: hero-logo
   label: Hero logo
