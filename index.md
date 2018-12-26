@@ -20,7 +20,9 @@ hire-copy: We at the Pork Shack are open to catering your event including weddin
   birthdays or any party that you think our delicious menu would be appropriate for.
   We will aim to work to your requirements, just fill out the form at the bottom of
   the page and we’ll contact you as soon as we can.
-mailing-list: ''
+# mailing-list: 'Alternatively you can join our mailing list, and find out where we''ll
+#  be next, alongside special offers, discounts and coupons. Simply subscribe to our
+#  mailing list using the handy form below:'
 location-title: Come find us!
 location-copy: Based in Lincoln, our food truck will be travelling around the country.
 phone-number: '07897 201936'

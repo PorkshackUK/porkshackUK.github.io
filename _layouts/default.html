@@ -1,7 +1,6 @@
 <!doctype html>
 
 <html>
-<!--<![endif]-->
 
 <head>
   <meta charset="utf-8">
@@ -13,42 +12,43 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Favicon Code-->
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-<link rel="manifest" href="/assets/favicon/site.webmanifest">
-<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#000000">
-<meta name="msapplication-TileColor" content="#000000">
-
-
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#000000">
 <!-- CSS Code-->
-
   <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link type="text/css" rel="stylesheet" href="assets/css/materialize.css"  media="screen,projection"/>  
-  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-
-  <!--For Plugins external css-->
+  <link type="text/css" rel="stylesheet" href="assets/css/materialize.css"  media="screen,projection"/>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/brands.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css">
   <link rel="stylesheet" href="assets/css/animate/animate.css" />
+  <link rel="stylesheet" href="assets/css/style.css">
 
   <!--Theme custom css -->
-  <link rel="stylesheet" href="assets/css/style.css">
   <style type="text/css">
-    @font-face {
-    font-family: 'Iron-Brine';
-    src:url('./assets/fonts/Iron-Brine.ttf.woff') format('woff'),
-        url('./assets/fonts/Iron-Brine.ttf.svg#Iron-Brine') format('svg'),
-        url('./assets/fonts/Iron-Brine.ttf.eot'),
-        url('./assets/fonts/Iron-Brine.ttf.eot?#iefix') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
-}
-
+        @font-face {
+        font-family: 'Iron-Brine';
+        src:url('./assets/fonts/Iron-Brine.ttf.woff') format('woff'),
+            url('./assets/fonts/Iron-Brine.ttf.svg#Iron-Brine') format('svg'),
+            url('./assets/fonts/Iron-Brine.ttf.eot'),
+            url('./assets/fonts/Iron-Brine.ttf.eot?#iefix') format('embedded-opentype');
+        font-weight: normal;
+        font-style: normal;
+        }
         h1, h2, h3, h4, h5, h6 {
-          font-family: 'Iron-Brine';          
+          font-family: 'Iron-Brine';
         }
   </style>
+  <!--For Plugins external css-->
   <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  {% include cookies.html %}
+  <!-- Google Analytics snippet  -->
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
 
 <body>
@@ -70,8 +70,11 @@
   </div>
 
 {% include header.html %}
+
  {{ content }}
+
 <div style="margin-top:-50px;"></div>
+
 {% include footer.html %}
 
   <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
