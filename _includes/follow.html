@@ -1,16 +1,27 @@
-  <div style="background-image: url(assets/images/white.jpg);" class="z-depth-2">
-    <div class="container">
-      <div class="row">
-        <div class="text-center  wow fadeIn" data-wow-duration="5s" style="padding-top: 20px;">
-          <div id="instagram" class="col s12 section scrollspy">
-<!-- Instagram Section -->
-              <h3>Instagram</h3>
-<div>
-<!-- LightWidget WIDGET -->
-<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-<iframe src="http://lightwidget.com/widgets/783594d16a635ff2a3725cb9ddfd4b9b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden; padding-bottom:50px;"></iframe>
-</div>
+<div style="background-image: url(assets/images/white.jpg);" class="z-depth-2">
+  <div class="container">
+    <div class="row">
+      <div class="text-center  wow fadeIn" data-wow-duration="5s" style="padding-top: 20px;">
+        <div id="instagram" class="col s12 section scrollspy">
+          <!-- Instagram Section -->
+          <h3>Instagram</h3>
+          <div class="center" style="height:100%; padding-bottom:10%;">
+            <!-- Pixlee Instagram WIDGET -->
+            <div id="pixlee_container"></div>
+            <script type="text/javascript">
+              window.PixleeAsyncInit = function() {
+                Pixlee.init({
+                  apiKey: 'G1IaV274czHekEtSW7H'
+                });
+                Pixlee.addSimpleWidget({
+                  widgetId: '12229'
+                });
+              };
+            </script>
+            <script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
           </div>
         </div>
       </div>
+    </div>
+  </div>
 </div>

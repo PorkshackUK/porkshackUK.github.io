@@ -2,13 +2,13 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h3 class="white-text">Come find us!</h3>
+                <h3 class="white-text">{{ page.location-title }}</h3>
 <!-- Location Copy -->
-                <p>Based in Lincoln, our food truck will be travelling around the country.
-<!-- Telephone NUmber -->                  
-                  <br>Phone: 07897 201936
+                <p>{{ page.location-copy }}
+<!-- Telephone NUmber -->
+                  <br>Phone: {{ page.phone-number }}
 <!-- Email Address -->
-                  <br>Email: theporkshackuk@gmail.com</p>
+                  <br>Email: {{ site.email }}</p>
 
 <!-- Online Social -->
                 <a href="https://www.facebook.com/theporkshackUK/?ref=bookmarks" style="color:white;" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -18,7 +18,7 @@
               <div class="col l4 offset-l2 s12 section scrollspy" id="contact">
             <div class="wow fadeIn" data-wow-duration="5s">
 <!-- Contact Us Text & Form -->
-              <h3>Contact us now!</h3>
+              <h3>{{ Contact us now! }}</h3>
               <div class="row left-align">
                 <form action="https://docs.google.com/forms/d/e/1FAIpQLSdR0lUxQgHcBj5Gzc-jRWFlbPG9h_dtAZ0S-qriu-KnN1Rxvg/formResponse" id="formid">
                   <div>
