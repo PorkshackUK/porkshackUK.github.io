@@ -1,7 +1,7 @@
 ---
 layout: default
 hero-logo: assets/images/logo.png
-hero-background: "/uploads/IMG_9238.JPG"
+hero-background: "/uploads/IMG_20181110_121642.jpg"
 hero-copy: The Pork Shack takes a modern spin on traditional Filipino dishes by reconstructing
   popular Filipino family favourites and turning them into street food feasts. We
   only use good quality fresh ingredients in our dishes, our pork is sourced locally
