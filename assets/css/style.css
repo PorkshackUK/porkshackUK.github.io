@@ -7,13 +7,13 @@ body {
     src:url('../assets/fonts/Iron-Brine.ttf.woff') format('woff'),
         url('../assets/fonts/Iron-Brine.ttf.svg#Iron-Brine') format('svg'),
         url('../assets/fonts/Iron-Brine.ttf.eot'),
-        url('../assets/fonts/Iron-Brine.ttf.eot?#iefix') format('embedded-opentype'); 
+        url('../assets/fonts/Iron-Brine.ttf.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
 }
 
         h1, h2, h3, h4, h5, h6 {
-          font-family: 'Iron-Brine';          
+          font-family: 'Iron-Brine';
         }
 
 
@@ -125,12 +125,12 @@ h4 {
 h5 {
     font-size: 1.3rem;
     margin-bottom: 1rem;
-    font-family: 'Iron-Brine', sans-serif;    
+    font-family: 'Iron-Brine', sans-serif;
 }
 h6 {
     font-size: 1rem;
     margin-bottom: .9rem;
-    font-family: 'Iron-Brine', sans-serif;    
+    font-family: 'Iron-Brine', sans-serif;
 }
 p {
     line-height: 1.5rem;
@@ -138,4 +138,15 @@ p {
 }
 p:last-child {
     margin-bottom: 0px;
+}
+
+.carousel img {
+  display: block;
+  height: 200px;
+}
+
+@media screen and ( min-width: 768px ) {
+  .carousel img {
+    height: 400px;
+  }
 }
