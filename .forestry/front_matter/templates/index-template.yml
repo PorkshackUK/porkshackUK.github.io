@@ -23,6 +23,10 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- type: image_gallery
+  label: Slideshow Images
+  name: slides
+  description: Images to be placed in the slideshow
 - name: about-image
   label: About image
   type: file
