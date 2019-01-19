@@ -1,5 +1,5 @@
 <div class="carousel carousel-slider center" data-flickity='{ "autoPlay": true }'>
   {% for image in page.slides %}
-    <div class="carousel-cell" style="background-image: url({{ image | relative_url }}); width: 100%; height: 100%;"></div>
+    <div class="carousel-cell" style="background-image: url({{ image }}); width: 100%; height: 100%;"></div>
     {% endfor %}
   </div>
