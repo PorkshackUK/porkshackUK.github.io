@@ -7,7 +7,11 @@ hero-copy: The Pork Shack takes a modern spin on traditional Filipino dishes by 
   only use good quality fresh ingredients in our dishes, our pork is sourced locally
   from an independent butcher who supplies free range, rare breed, high welfare pigs.
 slides:
-    - 
+- "/uploads/IMG_9238.JPG"
+- "/uploads/IMG_20181110_121642.jpg"
+- "/uploads/IMG_9277.JPG"
+- "/uploads/heroImage.jpg"
+- 
 about-image: assets/images/porkShackPig.png
 about-title: WHO WE ARE
 about-copy: Dan and Kayleigh spent 2017 travelling / eating their way through South
