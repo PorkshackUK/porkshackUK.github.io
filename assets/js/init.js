@@ -26,4 +26,9 @@ $(document).ready(function(){
 	$('.dropdown-trigger').dropdown({hover: true});
 	$('.chips').chips();
 	new WOW().init();
+	$('.carousel-slider').flickity({
+		// options
+		cellAlign: 'center',
+		contain: true
+	});
 })(jQuery); // end of jQuery name space
