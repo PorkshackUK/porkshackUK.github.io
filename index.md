@@ -9,10 +9,10 @@ hero-copy: The Pork Shack takes a modern spin on traditional Filipino dishes by 
 slides:
 - "/uploads/IMG_20181118_162150.jpg"
 - "/uploads/IMG_20181110_121613_1_BURST001_COVER.jpg"
-- "/uploads/_MAT3944.jpg"
 - "/uploads/Full Trailer.jpg"
 - "/uploads/Rendang 3.JPG"
 - "/uploads/IMG_20181110_121642.jpg"
+- "/uploads/_MAT3944.jpg"
 - "/uploads/Jackfruit 2.JPG"
 about-image: assets/images/porkShackPig.png
 about-title: WHO WE ARE
