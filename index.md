@@ -4,10 +4,6 @@ hero-logo: assets/images/logo.png
 hero-background: "/uploads/IMG_20190329_103054.jpg"
 hero-copy: ''
 slides:
-- "/uploads/Edit Trailer.jpg"
-- "/uploads/IMG_20181118_162150.jpg"
-- "/uploads/Edit Rendang.jpg"
-- "/uploads/IMG_20190329_103705.jpg"
 - "/uploads/IMG_20190329_103054-1.jpg"
 - "/uploads/IMG_20181110_121642.jpg"
 about-image: assets/images/porkShackPig.png
