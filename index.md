@@ -24,15 +24,23 @@ about-copy: "Dan and Kayleigh made the cliché move to take a year out and trave
   has worked in events since leaving University, her experience relies heavily in
   event production, working on events like the London Olympics and music festivals.
   \n"
-food-title: Menu
-food-copy: All of our dishes are served with coconut rice and pickled slaw.
+food-title: FILIPINO FUSION STREET FOOD
+food-copy: 'We take a modern spin on traditional Filipino dishes by reconstructing
+  popular Filipino family favourites and turning them into street food feasts.  We
+  only use good quality fresh ingredients and we aim to use local suppliers where
+  we can, independent and great quality. We only use British Free-range pork, which
+  is from our local butcher.   We make all our own curry pastes, spice blends and
+  sauces.  All our crockery, cups and cutlery are biodegradable which means they are
+  100% compostable, napkins and lids are 100% recyclable.   In our prep kitchen we
+  compost all our food waste so nothing goes to landfill. '
 hire-title: Book us for your next event
 hire-copy: We at the Pork Shack are open to catering your event including weddings,
   birthdays or any party that you think our delicious menu would be appropriate for.
   We will aim to work to your requirements, just fill out the form at the bottom of
   the page and we’ll contact you as soon as we can.
 location-title: Come find us!
-location-copy: Based in Lincoln, our food truck will be travelling around the country.
+location-copy: Based in Oxfordshire, our food truck will be travelling around the
+  country.
 phone-number: '07897 201936'
 
 ---
