@@ -5,7 +5,6 @@ ingredients:
 - garlic
 - gluten free soy sauce
 - bay leaves
-- vinegar
 image: "/uploads/Adobo.jpg"
 
 ---
