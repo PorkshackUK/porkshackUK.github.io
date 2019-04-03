@@ -8,7 +8,7 @@ slides:
 - "/uploads/Pulled Pork.jpg"
 - "/uploads/Trailer Smoke Up.jpg"
 - "/uploads/Trailer Aylesbury.jpg"
-about-image: "/uploads/Kayleigh &Dan.jpg"
+about-image: "/uploads/Kayleigh &Dan.png"
 about-title: WHO WE ARE
 about-copy: "Dan and Kayleigh made the cliché move to take a year out and travel South
   East Asia and eat their way through as many different countries they could afford.
