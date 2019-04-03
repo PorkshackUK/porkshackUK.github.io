@@ -27,6 +27,9 @@ about-copy: "Dan and Kayleigh made the cliché move to take a year out and trave
 food-title: FILIPINO FUSION STREET FOOD
 food-copy: 'We take a modern spin on traditional Filipino dishes by reconstructing
   popular Filipino family favourites and turning them into street food feasts.  We
+  offer vegan alternatives; it’s usually pulled jackfruit which has a very similar
+  texture to pulled pork. We ensure we always offer gluten free and diary free on
+  our menus. We also use gluten free soy sauce which is used in most of our dishes.  We
   only use good quality fresh ingredients and we aim to use local suppliers where
   we can, independent and great quality. We only use British Free-range pork, which
   is from our local butcher.   We make all our own curry pastes, spice blends and
