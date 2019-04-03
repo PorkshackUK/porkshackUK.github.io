@@ -8,8 +8,6 @@ slides:
 - "/uploads/Pulled Pork.jpg"
 - "/uploads/Trailer Smoke Up.jpg"
 - "/uploads/Trailer Aylesbury.jpg"
-- "/uploads/IMG_20190329_103054-1.jpg"
-- "/uploads/IMG_20181110_121642.jpg"
 about-image: assets/images/porkShackPig.png
 about-title: WHO WE ARE
 about-copy: "Dan and Kayleigh made the cliché move to take a year out and travel South
