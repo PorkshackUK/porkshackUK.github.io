@@ -40,7 +40,7 @@ hire-copy: We at the Pork Shack are open to catering your event including weddin
   We will aim to work to your requirements, just fill out the form at the bottom of
   the page and we’ll contact you as soon as we can.
 location-title: Come find us!
-location-copy: Based in Oxfordshire, our food truck will be travelling around the
+location-copy: Based in Oxfordshire, our food trailer will be travelling around the
   country.
 phone-number: '07897 201936'
 
