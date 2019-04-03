@@ -1,7 +1,7 @@
 ---
 layout: default
 hero-logo: assets/images/logo.png
-hero-background: "/uploads/Homepage background2.jpg"
+hero-background: "/uploads/Frontage.jpg"
 hero-copy: ''
 slides:
 - "/uploads/Frontage.jpg"
