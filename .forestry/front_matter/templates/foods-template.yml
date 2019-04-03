@@ -1,7 +1,6 @@
 ---
 label: Foods template
-hide_body: 
-is_partial: 
+hide_body: false
 fields:
 - name: dish
   label: Dish
