@@ -8,4 +8,4 @@ ingredients:
 image: "/uploads/Jackfruit 2.JPG"
 
 ---
-Paksiw is traditionally made with left over pork and stir fried with garlic, bay leaf, vinegar and soy sauce. We swapped the pork for young jackfruit which has a similar texture and appearance to pulled pork so Veggies and Vegans can have a real taste of the Pork Shack too!
+Paksiw (Pak-si-ew) we swapped the pork for jackfruit which has a similar texture and appearance to pulled pork so Veggies and Vegans can have a real taste of the Pork Shack too!
