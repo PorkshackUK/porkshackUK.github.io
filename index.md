@@ -15,13 +15,13 @@ about-copy: "Dan and Kayleigh made the cliché move to take a year out and trave
   The trip was “make it up as we go along” travel plan. They decided to take a detour
   to the Philippines to visit Kayleigh's Lola (Grandma) for her 80th birthday party,
   this was where they fell in love with Filipino food and the idea of the Pork Shack
-  was born!\n\nBoth Dan and Kayleigh have worked in the events sector but on different
-  platforms which makes the perfect team. \n\nDan is a fully trained chef and has
-  been working in the industry for over 10 years; he has worked in restaurants, event
-  catering, he was a personal chef and even ran his own novelty cake business. \n\nKayleigh
-  has worked in events since leaving University, her experience relies heavily in
-  event production, working on events like the London Olympics and music festivals.
-  \n"
+  was born!\n<br>\n<br>Both Dan and Kayleigh have worked in the events sector but
+  on different platforms which makes the perfect team. \n<br>\n<br>Dan is a fully
+  trained chef and has been working in the industry for over 10 years; he has worked
+  in restaurants, event catering, he was a personal chef and even ran his own novelty
+  cake business. \n<br>\n<br>Kayleigh has worked in events since leaving University,
+  her experience relies heavily in event production, working on events like the London
+  Olympics and music festivals. \n"
 food-title: FILIPINO FUSION STREET FOOD
 food-copy: "We take a modern spin on traditional Filipino dishes by reconstructing
   popular Filipino family favourites and turning them into street food feasts.  We
