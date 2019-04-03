@@ -6,7 +6,7 @@ ingredients:
 - soy sauce
 - bay leaves
 - vinegar
-image: ''
+image: "/uploads/Adobo.jpg"
 
 ---
 A modern take on the traditional, rich flavoured, childhood favourite: Adobo.
