@@ -1,14 +1,14 @@
 ---
 layout: default
 hero-logo: assets/images/logo.png
-hero-background: "/uploads/Homepage background.jpg"
+hero-background: "/uploads/Homepage background2.jpg"
 hero-copy: ''
 slides:
 - "/uploads/Frontage.jpg"
 - "/uploads/Pulled Pork.jpg"
 - "/uploads/Trailer Smoke Up.jpg"
 - "/uploads/Trailer Aylesbury.jpg"
-about-image: assets/images/porkShackPig.png
+about-image: "/uploads/Kayleigh &Dan.jpg"
 about-title: WHO WE ARE
 about-copy: "Dan and Kayleigh made the cliché move to take a year out and travel South
   East Asia and eat their way through as many different countries they could afford.
