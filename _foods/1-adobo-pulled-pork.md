@@ -3,7 +3,7 @@ dish: Adobo Pulled Pork
 ingredients:
 - Slow cooked pork shoulder
 - garlic
-- soy sauce
+- gluten free soy sauce
 - bay leaves
 - vinegar
 image: "/uploads/Adobo.jpg"
