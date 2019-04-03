@@ -23,17 +23,17 @@ about-copy: "Dan and Kayleigh made the cliché move to take a year out and trave
   event production, working on events like the London Olympics and music festivals.
   \n"
 food-title: FILIPINO FUSION STREET FOOD
-food-copy: 'We take a modern spin on traditional Filipino dishes by reconstructing
+food-copy: "We take a modern spin on traditional Filipino dishes by reconstructing
   popular Filipino family favourites and turning them into street food feasts.  We
   offer vegan alternatives; it’s usually pulled jackfruit which has a very similar
   texture to pulled pork. We ensure we always offer gluten free and diary free on
-  our menus. We also use gluten free soy sauce which is used in most of our dishes.  We
+  our menus. We also use gluten free soy sauce which is used in most of our dishes.\n<br>\n<br>We
   only use good quality fresh ingredients and we aim to use local suppliers where
   we can, independent and great quality. We only use British Free-range pork, which
   is from our local butcher.   We make all our own curry pastes, spice blends and
   sauces.  All our crockery, cups and cutlery are biodegradable which means they are
-  100% compostable, napkins and lids are 100% recyclable.   In our prep kitchen we
-  compost all our food waste so nothing goes to landfill. '
+  100% compostable, napkins and lids are 100% recyclable.\n<br>\n<br>In our prep kitchen
+  we compost all our food waste so nothing goes to landfill. "
 hire-title: Book us for your next event
 hire-copy: We at the Pork Shack are open to catering your event including weddings,
   birthdays or any party that you think our delicious menu would be appropriate for.
