@@ -39,7 +39,7 @@ hire-copy: We at the Pork Shack are open to catering your event including weddin
   birthdays or any party that you think our delicious menu would be appropriate for.
   We will aim to work to your requirements, just fill out the form at the bottom of
   the page and we’ll contact you as soon as we can.
-location-title: Come find us!
+location-title: 'Come find us - keep an eye on Facebook Page for the latest info! '
 location-copy: Based in Oxfordshire, our food trailer will be travelling around the
   country.
 phone-number: '07897 201936'
