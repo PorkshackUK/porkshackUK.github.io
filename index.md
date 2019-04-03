@@ -1,26 +1,29 @@
 ---
 layout: default
 hero-logo: assets/images/logo.png
-hero-background: "/uploads/IMG_20181110_121613_1_BURST001_COVER.jpg"
-hero-copy: The Pork Shack takes a modern spin on traditional Filipino dishes by reconstructing
-  popular Filipino family favourites and turning them into street food feasts. We
-  only use good quality fresh ingredients in our dishes, our pork is sourced locally
-  from an independent butcher who supplies free range, rare breed, high welfare pigs.
+hero-background: "/uploads/IMG_20190329_103054.jpg"
+hero-copy: ''
 slides:
+- "/uploads/Edit Trailer.jpg"
 - "/uploads/IMG_20181118_162150.jpg"
-- "/uploads/IMG_20181110_121613_1_BURST001_COVER.jpg"
-- "/uploads/Full Trailer.jpg"
-- "/uploads/Rendang 3.JPG"
+- "/uploads/Edit Rendang.jpg"
+- "/uploads/IMG_20190329_103705.jpg"
+- "/uploads/IMG_20190329_103054-1.jpg"
 - "/uploads/IMG_20181110_121642.jpg"
-- "/uploads/_MAT3944.jpg"
-- "/uploads/Jackfruit 2.JPG"
 about-image: assets/images/porkShackPig.png
 about-title: WHO WE ARE
-about-copy: Dan and Kayleigh spent 2017 travelling / eating their way through South
-  East Asia on a “make it up as we go along” travel plan. They decided to take a detour
-  to the Philippines to visit Kayleigh's Lola (Grandma) as she was having an 80th
-  birthday party in Cebu, this was where they fell in love with Filipino food and
-  the idea of the Pork Shack was born!
+about-copy: "Dan and Kayleigh made the cliché move to take a year out and travel South
+  East Asia and eat their way through as many different countries they could afford.
+  The trip was “make it up as we go along” travel plan. They decided to take a detour
+  to the Philippines to visit Kayleigh's Lola (Grandma) for her 80th birthday party,
+  this was where they fell in love with Filipino food and the idea of the Pork Shack
+  was born!\n\nBoth Dan and Kayleigh have worked in the events sector but on different
+  platforms which makes the perfect team. \n\nDan is a fully trained chef and has
+  been working in the industry for over 10 years; he has worked in restaurants, event
+  catering, he was a personal chef and even ran his own novelty cake business. \n\nKayleigh
+  has worked in events since leaving University, her experience relies heavily in
+  event production, working on events like the London Olympics and music festivals.
+  \n"
 food-title: Menu
 food-copy: All of our dishes are served with coconut rice and pickled slaw.
 hire-title: Book us for your next event
