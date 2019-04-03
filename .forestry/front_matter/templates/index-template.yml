@@ -48,7 +48,7 @@ fields:
   default: ''
 - name: food-copy
   label: Food copy
-  type: text
+  type: textarea
   hidden: false
   default: ''
 - name: hire-title
