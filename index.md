@@ -37,12 +37,12 @@ food-copy: "We take a modern spin on traditional Filipino dishes by reconstructi
 hire-title: 'Street Food Catering '
 hire-copy: "Over the past few years the UK’s street food scene has boomed! With so
   many street food pop-up events appearing all over the UK why not add a bit of street
-  food to your event. \n\nThe Pork Shack can offer Filipino Food for any occasion
+  food to your event. \n<br>\n<br>The Pork Shack can offer Filipino Food for any occasion
   such as weddings, birthdays or even just fancy throwing a party for the hell of
   it, we can cater to your requirements. You can choose from our menu or if there
   is anything specific you require we will aim to work to your needs, don’t forget
-  we offer vegan options, gluten free and dairy free. \n\nWhen you book us all you
-  need to do - tell us where we’re pitching and we do the rest!\n"
+  we offer vegan options, gluten free and dairy free. \n<br>\n<br>When you book us
+  all you need to do - tell us where we’re pitching and we do the rest!\n"
 location-title: 'Come find us - keep an eye on Facebook Page for the latest info! '
 location-copy: Based in Oxfordshire, our food trailer will be travelling around the
   country.
