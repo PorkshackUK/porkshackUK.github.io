@@ -2,8 +2,6 @@
 The Pork Shack is a food truck in the UK that specialises in Filipino style street food. 
 It's star attraction is the Adobo Pulled Pork.
  
-Based on the original restaurant template:
-* http://bootstrapthemes.co/item/food-and-restaurant-one-page-template/
-  The template comes with lot HTML pages built using Bootstrap 3.3.5 and was really useful as a starting point, for fledgeling websites.
+Originally based on the original restaurant template, the site was reworked to use the Meghna Hugo theme, with ample CSS changes to give the site a more foodie feel.
 
-The website has since been updated using Materialize CSS as the base framework, migrated from Jekyll to Hugo (due to its speed), with forestry being used as the CMS.
+The website has since been migrated from Jekyll to Hugo (due to its speed), with forestry being used as the CMS.
