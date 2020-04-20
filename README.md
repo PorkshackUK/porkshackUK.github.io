@@ -6,4 +6,4 @@ Based on the original restaurant template:
 * http://bootstrapthemes.co/item/food-and-restaurant-one-page-template/
   The template comes with lot HTML pages built using Bootstrap 3.3.5 and was really useful as a starting point, for fledgeling websites.
 
-The website has since been updated using Materialize CSS as the base framework, Jekyll for futureproofing and relies on Cloud Cannon to handle the CMS.
+The website has since been updated using Materialize CSS as the base framework, migrated from Jekyll to Hugo (due to its speed), with forestry being used as the CMS.
